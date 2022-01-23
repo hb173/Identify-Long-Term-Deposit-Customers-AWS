@@ -4,11 +4,6 @@
 
 # Date: 11/19/2021
 
-## Team Members
-* Godwin Anguzu
-* Tego Chang
-* Himangshu Raj Bhantana
-* John Owusu Duah
 
 ## Outline of Readme
 1. Problem Statement
